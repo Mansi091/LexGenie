@@ -1,0 +1,11 @@
+langchain
+langchain-core
+groq
+langchain-groq
+python-dotenv
+fastapi
+pydantic
+pydantic-settings
+pdfplumber
+python-multipart
+streamlit
