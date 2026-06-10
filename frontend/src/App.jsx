@@ -3,7 +3,7 @@ import RiskTextExpander from './components/RiskTextExpander'
 import MissingClauseHelper from './components/MissingClauseHelper'
 import ChatbotPanel from './components/ChatbotPanel'
 
-const API_BASE = import.meta.env.DEV ? 'http://127.0.0.1:8080' : ''
+const API_BASE = import.meta.env.DEV ? 'http://127.0.0.1:8080' : (import.meta.env.VITE_API_BASE || '')
 
 export default function App() {
   const [file, setFile] = useState(null)
