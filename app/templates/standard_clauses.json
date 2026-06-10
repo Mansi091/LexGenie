@@ -1,0 +1,42 @@
+{
+  "limitation_of_liability": {
+    "title": "Limitation of Liability",
+    "description": "Liability should be mutual and capped at a reasonable amount (e.g., 12 months of fees paid). Neither party should be liable for indirect, consequential, or punitive damages.",
+    "standard_text": "Except for breaches of confidentiality or indemnification obligations, in no event shall either party's aggregate liability under this agreement exceed the total amount paid by customer to vendor in the twelve (12) months preceding the event giving rise to liability. Neither party shall be liable for any indirect, incidental, special, or consequential damages."
+  },
+  "intellectual_property": {
+    "title": "Intellectual Property Ownership",
+    "description": "The client must retain ownership of their own data and any custom deliverables. The vendor retains ownership of their pre-existing platform and tools.",
+    "standard_text": "Customer retains all right, title, and interest in and to Customer Data. Vendor retains all right, title, and interest in and to the services, software, and any improvements or pre-existing materials. To the extent Vendor creates custom deliverables for Customer, all such deliverables shall be owned by Customer upon payment in full."
+  },
+  "termination_and_renewal": {
+    "title": "Termination and Renewal",
+    "description": "Auto-renewal is fine, but the notice window to cancel should be reasonable (30 days or less). Unilateral immediate termination by the vendor without cause should be avoided.",
+    "standard_text": "This Agreement will automatically renew for successive 12-month terms unless either party gives the other party written notice of non-renewal at least thirty (30) days prior to the expiration of the then-current term. Either party may terminate this Agreement for material breach upon thirty (30) days written notice if the breach remains uncured."
+  },
+  "indemnification": {
+    "title": "Indemnification",
+    "description": "The vendor must defend and indemnify the startup if the vendor's software gets the startup sued for intellectual property infringement (e.g., patent or copyright infringement).",
+    "standard_text": "Vendor shall defend, indemnify, and hold harmless Customer from and against any third-party claims, suits, or proceedings alleging that the services or software infringe any intellectual property rights of a third party, and Vendor will pay all damages, liabilities, and legal costs finally awarded."
+  },
+  "data_privacy_security": {
+    "title": "Data Privacy and Security",
+    "description": "The vendor must protect customer data, comply with laws (GDPR/CCPA), and notify the startup of a data breach within 48 to 72 hours.",
+    "standard_text": "Vendor shall maintain appropriate technical and organizational measures to protect Customer Data against unauthorized access, loss, or alteration. In the event of a confirmed security breach affecting Customer Data, Vendor shall notify Customer without undue delay, and in no event later than seventy-two (72) hours after becoming aware of the breach."
+  },
+  "confidentiality": {
+    "title": "Confidentiality",
+    "description": "Mutual confidentiality obligations protecting both parties' proprietary information.",
+    "standard_text": "Each party agrees to protect the other party's Confidential Information with the same degree of care it uses for its own similar information, but not less than a reasonable standard of care. Neither party shall disclose the other's Confidential Information to third parties except as permitted under this Agreement."
+  },
+  "governing_law": {
+    "title": "Governing Law and Jurisdiction",
+    "description": "Governing law should be neutral and convenient, and not force the startup to travel to an obscure location for litigation.",
+    "standard_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware (or California), without regard to its conflict of laws principles. Any legal action arising under this Agreement shall be brought exclusively in the state or federal courts located in the chosen jurisdiction."
+  },
+  "assignment": {
+    "title": "Assignment (Transfer of Contract)",
+    "description": "The startup must be allowed to transfer the contract if they get acquired, merge, or sell their assets, without needing the vendor's permission.",
+    "standard_text": "Neither party may assign this Agreement without the prior written consent of the other party, except that either party may assign this Agreement in its entirety without consent to an affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets."
+  }
+}
