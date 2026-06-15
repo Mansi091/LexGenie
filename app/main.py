@@ -10,7 +10,7 @@ from app.services.contract_analyzer import analyze_contract as analyze_contract_
 from app.services.contract_chat import chat_about_contract
 
 app = FastAPI(
-    title="Legal Document Analyzer",
+    title="LexiGenie",
     description="AI-powered legal contract review system",
     version="1.0.0"
 )
