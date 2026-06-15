@@ -11,8 +11,7 @@ from app.services.contract_chat import chat_about_contract
 
 app = FastAPI(
     title="LexiGenie",
-    description="AI-powered legal contract review system",
-    version="1.0.0"
+    description="AI-powered legal contract review system"
 )
 
 app.add_middleware(
